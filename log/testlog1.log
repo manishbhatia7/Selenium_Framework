@@ -1,0 +1,138 @@
+2020-06-25 16:03:08,735 [main] INFO Mercury Tours Website - Assertion starts for First Test Case
+2020-06-25 16:03:08,746 [main] INFO Mercury Tours Website - Registration Details Will now be entered into registration details page
+2020-06-25 16:03:08,947 [main] INFO Mercury Tours Website - First Name Entered
+2020-06-25 16:03:09,325 [main] INFO Mercury Tours Website - Last Name Entered
+2020-06-25 16:03:09,567 [main] INFO Mercury Tours Website - Phone Entered
+2020-06-25 16:03:10,104 [main] INFO Mercury Tours Website - Email Entered
+2020-06-25 16:03:10,870 [main] INFO Mercury Tours Website - Address Entered
+2020-06-25 16:03:11,272 [main] INFO Mercury Tours Website - City Entered
+2020-06-25 16:03:11,874 [main] INFO Mercury Tours Website - State Entered
+2020-06-25 16:03:12,055 [main] INFO Mercury Tours Website - Pincode Entered
+2020-06-25 16:03:12,351 [main] INFO Mercury Tours Website - Country selected in dropdown
+2020-06-25 16:03:12,613 [main] INFO Mercury Tours Website - Username Entered
+2020-06-25 16:03:12,857 [main] INFO Mercury Tours Website - Password Entered
+2020-06-25 16:03:13,194 [main] INFO Mercury Tours Website - Confirmed Password Entered
+2020-06-25 16:03:19,405 [main] INFO Mercury Tours Website - Assertion for Registration
+2020-06-25 16:03:19,574 [main] INFO Mercury Tours Website - Assertion Passed
+2020-06-25 16:03:22,045 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:03:22,046 [main] INFO Mercury Tours Website - Assertion starts for Second testcase
+2020-06-25 16:03:22,050 [main] INFO Mercury Tours Website - 
+2020-06-25 16:03:22,051 [main] INFO Mercury Tours Website - Validating whether Sign on logo is available
+2020-06-25 16:03:22,216 [main] INFO Mercury Tours Website - User entering credentials into sign in page
+2020-06-25 16:03:22,219 [main] INFO Mercury Tours Website - User entering username
+2020-06-25 16:03:22,601 [main] INFO Mercury Tours Website - User entering password
+2020-06-25 16:03:22,886 [main] INFO Mercury Tours Website - User clicks on Submit button
+2020-06-25 16:03:35,873 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:03:35,877 [main] INFO Mercury Tours Website - Assertion starts for Third testcase
+2020-06-25 16:03:35,878 [main] INFO Mercury Tours Website - 
+2020-06-25 16:03:35,878 [main] INFO Mercury Tours Website - User entering flight details
+2020-06-25 16:03:35,878 [main] INFO Mercury Tours Website - User selects trip type as One way
+2020-06-25 16:03:36,186 [main] INFO Mercury Tours Website - User selects from city
+2020-06-25 16:03:36,361 [main] INFO Mercury Tours Website - User selects the departure date
+2020-06-25 16:03:36,537 [main] INFO Mercury Tours Website - User selects to city
+2020-06-25 16:03:36,684 [main] INFO Mercury Tours Website - User selects the arrival date
+2020-06-25 16:03:36,834 [main] INFO Mercury Tours Website - User clicks on continue button
+2020-06-25 16:03:41,000 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:03:41,001 [main] INFO Mercury Tours Website - Assertion starts for Fourth testcase
+2020-06-25 16:03:41,003 [main] INFO Mercury Tours Website - 
+2020-06-25 16:03:41,005 [main] INFO Mercury Tours Website - User selects flights
+2020-06-25 16:03:41,006 [main] INFO Mercury Tours Website - User selects outgoing flight
+2020-06-25 16:03:41,283 [main] INFO Mercury Tours Website - User selects incoming flight
+2020-06-25 16:03:41,550 [main] INFO Mercury Tours Website - Assertion starts for both outgoing and incoming flights
+2020-06-25 16:03:46,044 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:03:46,045 [main] INFO Mercury Tours Website - Assertion starts for Fifth testcase
+2020-06-25 16:03:46,047 [main] INFO Mercury Tours Website - 
+2020-06-25 16:03:46,047 [main] INFO Mercury Tours Website - Assertion starts to check incoming flight details
+2020-06-25 16:03:46,121 [main] INFO Mercury Tours Website - Assertion starts to check outgoing flight details
+2020-06-25 16:03:46,193 [main] INFO Mercury Tours Website - Assertion starts to check price
+2020-06-25 16:03:46,258 [main] INFO Mercury Tours Website - User enters first name
+2020-06-25 16:03:46,588 [main] INFO Mercury Tours Website - User enters last name
+2020-06-25 16:03:46,782 [main] INFO Mercury Tours Website - User selects a meal
+2020-06-25 16:03:46,950 [main] INFO Mercury Tours Website - User selects a credit card type
+2020-06-25 16:03:47,118 [main] INFO Mercury Tours Website - User enters credit card no
+2020-06-25 16:03:47,439 [main] INFO Mercury Tours Website - User enters billing address
+2020-06-25 16:03:47,982 [main] INFO Mercury Tours Website - User enters billing city
+2020-06-25 16:03:48,327 [main] INFO Mercury Tours Website - User enters billing state
+2020-06-25 16:03:48,566 [main] INFO Mercury Tours Website - User enters billing pincode
+2020-06-25 16:03:48,864 [main] INFO Mercury Tours Website - User selects billing country
+2020-06-25 16:03:49,072 [main] INFO Mercury Tours Website - User enters delivery address
+2020-06-25 16:03:49,626 [main] INFO Mercury Tours Website - User enters delivery city
+2020-06-25 16:03:49,886 [main] INFO Mercury Tours Website - User enters delivery state
+2020-06-25 16:03:50,116 [main] INFO Mercury Tours Website - User enters delivery city
+2020-06-25 16:03:50,311 [main] INFO Mercury Tours Website - User selects delivery country
+2020-06-25 16:03:50,470 [main] INFO Mercury Tours Website - User handles alert
+2020-06-25 16:03:50,499 [main] INFO Mercury Tours Website - User purchases a ticket by clicking on secure purchase button
+2020-06-25 16:03:51,972 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:03:51,973 [main] INFO Mercury Tours Website - Assertion starts for Sixth testcase
+2020-06-25 16:03:51,973 [main] INFO Mercury Tours Website - 
+2020-06-25 16:03:51,974 [main] INFO Mercury Tours Website - Multiple assertions to check details are correct on booking review page
+2020-06-25 16:03:52,208 [main] INFO Mercury Tours Website - Assert booking details test failed
+2020-06-25 16:10:16,341 [main] INFO Mercury Tours Website - Assertion starts for First Test Case
+2020-06-25 16:10:16,353 [main] INFO Mercury Tours Website - Registration Details Will now be entered into registration details page
+2020-06-25 16:10:16,503 [main] INFO Mercury Tours Website - First Name Entered
+2020-06-25 16:10:16,778 [main] INFO Mercury Tours Website - Last Name Entered
+2020-06-25 16:10:16,960 [main] INFO Mercury Tours Website - Phone Entered
+2020-06-25 16:10:17,156 [main] INFO Mercury Tours Website - Email Entered
+2020-06-25 16:10:17,457 [main] INFO Mercury Tours Website - Address Entered
+2020-06-25 16:10:17,775 [main] INFO Mercury Tours Website - City Entered
+2020-06-25 16:10:17,970 [main] INFO Mercury Tours Website - State Entered
+2020-06-25 16:10:18,122 [main] INFO Mercury Tours Website - Pincode Entered
+2020-06-25 16:10:18,330 [main] INFO Mercury Tours Website - Country selected in dropdown
+2020-06-25 16:10:18,523 [main] INFO Mercury Tours Website - Username Entered
+2020-06-25 16:10:18,685 [main] INFO Mercury Tours Website - Password Entered
+2020-06-25 16:10:18,875 [main] INFO Mercury Tours Website - Confirmed Password Entered
+2020-06-25 16:10:21,709 [main] INFO Mercury Tours Website - Assertion for Registration
+2020-06-25 16:10:21,845 [main] INFO Mercury Tours Website - Assertion Passed
+2020-06-25 16:10:23,576 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:10:23,576 [main] INFO Mercury Tours Website - Assertion starts for Second testcase
+2020-06-25 16:10:23,579 [main] INFO Mercury Tours Website - 
+2020-06-25 16:10:23,580 [main] INFO Mercury Tours Website - Validating whether Sign on logo is available
+2020-06-25 16:10:23,635 [main] INFO Mercury Tours Website - User entering credentials into sign in page
+2020-06-25 16:10:23,635 [main] INFO Mercury Tours Website - User entering username
+2020-06-25 16:10:23,770 [main] INFO Mercury Tours Website - User entering password
+2020-06-25 16:10:23,921 [main] INFO Mercury Tours Website - User clicks on Submit button
+2020-06-25 16:10:29,436 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:10:29,437 [main] INFO Mercury Tours Website - Assertion starts for Third testcase
+2020-06-25 16:10:29,438 [main] INFO Mercury Tours Website - 
+2020-06-25 16:10:29,438 [main] INFO Mercury Tours Website - User entering flight details
+2020-06-25 16:10:29,439 [main] INFO Mercury Tours Website - User selects trip type as One way
+2020-06-25 16:10:29,596 [main] INFO Mercury Tours Website - User selects from city
+2020-06-25 16:10:29,757 [main] INFO Mercury Tours Website - User selects the departure date
+2020-06-25 16:10:29,881 [main] INFO Mercury Tours Website - User selects to city
+2020-06-25 16:10:30,019 [main] INFO Mercury Tours Website - User selects the arrival date
+2020-06-25 16:10:30,179 [main] INFO Mercury Tours Website - User clicks on continue button
+2020-06-25 16:10:33,705 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:10:33,706 [main] INFO Mercury Tours Website - Assertion starts for Fourth testcase
+2020-06-25 16:10:33,706 [main] INFO Mercury Tours Website - 
+2020-06-25 16:10:33,706 [main] INFO Mercury Tours Website - User selects flights
+2020-06-25 16:10:33,708 [main] INFO Mercury Tours Website - User selects outgoing flight
+2020-06-25 16:10:33,866 [main] INFO Mercury Tours Website - User selects incoming flight
+2020-06-25 16:10:34,036 [main] INFO Mercury Tours Website - Assertion starts for both outgoing and incoming flights
+2020-06-25 16:10:38,286 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:10:38,286 [main] INFO Mercury Tours Website - Assertion starts for Fifth testcase
+2020-06-25 16:10:38,287 [main] INFO Mercury Tours Website - 
+2020-06-25 16:10:38,288 [main] INFO Mercury Tours Website - Assertion starts to check incoming flight details
+2020-06-25 16:10:38,343 [main] INFO Mercury Tours Website - Assertion starts to check outgoing flight details
+2020-06-25 16:10:38,395 [main] INFO Mercury Tours Website - Assertion starts to check price
+2020-06-25 16:10:38,456 [main] INFO Mercury Tours Website - User enters first name
+2020-06-25 16:10:38,700 [main] INFO Mercury Tours Website - User enters last name
+2020-06-25 16:10:39,073 [main] INFO Mercury Tours Website - User selects a meal
+2020-06-25 16:10:39,241 [main] INFO Mercury Tours Website - User selects a credit card type
+2020-06-25 16:10:39,404 [main] INFO Mercury Tours Website - User enters credit card no
+2020-06-25 16:10:39,689 [main] INFO Mercury Tours Website - User enters billing address
+2020-06-25 16:10:40,179 [main] INFO Mercury Tours Website - User enters billing city
+2020-06-25 16:10:40,465 [main] INFO Mercury Tours Website - User enters billing state
+2020-06-25 16:10:40,755 [main] INFO Mercury Tours Website - User enters billing pincode
+2020-06-25 16:10:40,967 [main] INFO Mercury Tours Website - User selects billing country
+2020-06-25 16:10:41,093 [main] INFO Mercury Tours Website - User enters delivery address
+2020-06-25 16:10:41,506 [main] INFO Mercury Tours Website - User enters delivery city
+2020-06-25 16:10:41,737 [main] INFO Mercury Tours Website - User enters delivery state
+2020-06-25 16:10:41,926 [main] INFO Mercury Tours Website - User enters delivery city
+2020-06-25 16:10:42,084 [main] INFO Mercury Tours Website - User selects delivery country
+2020-06-25 16:10:42,285 [main] INFO Mercury Tours Website - User handles alert
+2020-06-25 16:10:42,313 [main] INFO Mercury Tours Website - User purchases a ticket by clicking on secure purchase button
+2020-06-25 16:10:43,791 [main] INFO Mercury Tours Website - **********************************************************
+2020-06-25 16:10:43,792 [main] INFO Mercury Tours Website - Assertion starts for Sixth testcase
+2020-06-25 16:10:43,793 [main] INFO Mercury Tours Website - 
+2020-06-25 16:10:43,793 [main] INFO Mercury Tours Website - Multiple assertions to check details are correct on booking review page
+2020-06-25 16:10:43,951 [main] INFO Mercury Tours Website - Assert booking details test failed

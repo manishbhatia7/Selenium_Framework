@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MercuryToursWebsite">
+  <parameter name="browser" value="chrome"></parameter>
+  <listeners>
+    <listener class-name="com.mercurytravels.utilities.Reporting"></listener>
+  </listeners>
+  <test name="E2E Booking of Tickets" >
+      <classes>
+      <class name="com.mercurytravels.testcases.TC001_Enter_Registration_Details" />
+      <class name="com.mercurytravels.testcases.TC002_Sign_In_Using_Registration_Details" />
+      <class name="com.mercurytravels.testcases.TC003_Select_To_From_City" />
+      <class name="com.mercurytravels.testcases.TC004_Select_To_From_Flights" />
+      <class name="com.mercurytravels.testcases.TC005_Enter_Booking_Details" />
+      <class name="com.mercurytravels.testcases.TC006_Assert_Booking_Review_Details" />
+
+
+    </classes>
+  </test>
+ 
+  
+</suite>
+
